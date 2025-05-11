@@ -1,7 +1,3 @@
-Here's a well-structured **README** file for your GitHub project:
-
----
-
 # **Copper Price & Business Status Prediction**
 
 ## **Overview**  
